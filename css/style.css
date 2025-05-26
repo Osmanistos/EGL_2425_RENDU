@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Merriweather:wght@400;700&display=swap');
+
+body {
+    background-color: rgb(179, 212, 255);
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Lora', serif; */
+}
